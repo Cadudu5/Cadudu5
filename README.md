@@ -1,5 +1,4 @@
-### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cadudu5)](https://github.com/Cadudu5/github-readme-stats)
+### Olá, eu sou o Cadu 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cadudu5&show_icons=true&theme=radical)
 <!--
