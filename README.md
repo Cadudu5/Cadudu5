@@ -1,5 +1,7 @@
 ### Hi there 👋
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cadudu5)](https://github.com/Cadudu5/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cadudu5a&show_icons=true&theme=radical)
 <!--
 **Cadudu5/Cadudu5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
