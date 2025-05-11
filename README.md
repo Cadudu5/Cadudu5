@@ -1,7 +1,6 @@
 ### Olá, eu sou o Cadu 👋
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cadudu5&show_icons=true&theme=tokyonight)](https://github.com/Cadudu5/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cadudu5&layout=donut&show_icons=true&theme=tokyonight)](https://github.com/Cadudu5/github-readme-stats) 
 
 
